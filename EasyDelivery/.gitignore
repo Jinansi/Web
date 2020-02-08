@@ -1,0 +1,10 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
+/EasyDelivery/nbproject/private/
+/EasyDelivery/build/
+*.db4o
+<<<<<<< HEAD
+*.jar
+*.TXT
+=======
+/EasyDelivery/dist/
+>>>>>>> daccf44cd4c6eb1da09361b5f6d800a364858ac9
